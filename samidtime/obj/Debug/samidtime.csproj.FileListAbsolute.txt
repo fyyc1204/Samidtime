@@ -1,0 +1,19 @@
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\bin\Debug\samidtime.exe.config
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\obj\Debug\samidtime.csprojResolveAssemblyReference.cache
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\obj\Debug\samidtime.Form1.resources
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\obj\Debug\samidtime.Properties.Resources.resources
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\obj\Debug\samidtime.csproj.GenerateResource.Cache
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\bin\Debug\samidtime.exe
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\bin\Debug\samidtime.pdb
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\obj\Debug\samidtime.exe
+c:\users\administrator.sd-201503031040\documents\visual studio 2013\Projects\samidtime\samidtime\obj\Debug\samidtime.pdb
+C:\Users\Administrator.sd-201503031040\Documents\Visual Studio 2013\Projects\samidtime\samidtime\bin\Debug\MySql.Data.dll
+D:\samidtime\samidtime\bin\Debug\samidtime.exe.config
+D:\samidtime\samidtime\obj\Debug\samidtime.exe
+D:\samidtime\samidtime\obj\Debug\samidtime.pdb
+D:\samidtime\samidtime\bin\Debug\samidtime.exe
+D:\samidtime\samidtime\bin\Debug\samidtime.pdb
+D:\samidtime\samidtime\obj\Debug\samidtime.csprojResolveAssemblyReference.cache
+D:\samidtime\samidtime\obj\Debug\samidtime.Form1.resources
+D:\samidtime\samidtime\obj\Debug\samidtime.Properties.Resources.resources
+D:\samidtime\samidtime\obj\Debug\samidtime.csproj.GenerateResource.Cache
